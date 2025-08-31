@@ -1,5 +1,5 @@
 {
-	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4ODE2OTEzNywianRpIjoiYmMyYzM1MDExNTAxNDVkZDhhOGY1MmFlOTYxODYwMjciLCJ1c2VyX2lkIjoyfQ.SgxMFsCyoEmGEk8b93eOlEffunhHxAr0awn7BG-Qblk",
-	"team_pk": "3",
-	"evalai_host_url": "https://eval.ai"
+	"token": "<eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4ODE2OTEzNywianRpIjoiYmMyYzM1MDExNTAxNDVkZDhhOGY1MmFlOTYxODYwMjciLCJ1c2VyX2lkIjoyfQ.SgxMFsCyoEmGEk8b93eOlEffunhHxAr0awn7BG-Qblk>",
+	"team_pk": "<3>",
+	"evalai_host_url": "<http://127.0.0.1:8888>"
 }
