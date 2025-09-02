@@ -117,7 +117,6 @@ jobs:
           echo "   • Docker engine is running"
           echo "   • Can pull python:3.9-slim image"
           echo "   • EvalAI server connectivity"
-        shell: bash
 
 
   process-evalai-challenge:
